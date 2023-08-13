@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @2672497124
 - 👀 I’m interested in materials physics, materials forming and control engineering, and programming.
 - 🌱 I’m currently learning the basics of Python programming.The current time is August 2023.
+- I am currently still in the learning phase, archiving for this purpose.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
